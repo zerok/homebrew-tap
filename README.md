@@ -10,4 +10,5 @@ $ brew tap zerok/main https://github.com/zerok/homebrew-tap
 
 ## Included packages
 
+* [clocked](https://github.com/zerok/clocked)
 * [tpl](https://github.com/zerok/tpl)
