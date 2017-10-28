@@ -23,6 +23,11 @@ $ brew tap zerok/main https://github.com/zerok/homebrew-tap
 * [clocked](https://github.com/zerok/clocked) is a simple time-tracker which
   allows for sending booked time to JIRA.
 
+* [remarked](https://github.com/zerok/remarked) wraps RemarkJS and adds a
+  guided mode to its feature-set. This way you can have a presenter remote-
+  controlling another browser instance (e.g. using a smartphone you can
+  remote-control the presentation in a desktop-browser).
+
 * [tpl](https://github.com/zerok/tpl) allows you to create templated
   configuration files with access to Vault, environment variables, and much
   more.
