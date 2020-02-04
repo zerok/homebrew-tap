@@ -1,9 +1,9 @@
 class ContainerInventory < Formula
   desc "A CLI for working with container registries"
   homepage "https://gitlab.com/zerok/container-inventory"
-  url "https://storage.googleapis.com/h10n-public-releases/container-inventory/1.3.3/container-inventory_1.3.3_macos_x86_64.tar.gz"
-  version "1.3.3"
-  sha256 "fd342791f7c6a2125abe4e60a09eba282f51129d1c1cb5d9cb0e8067dc2f4bdc"
+  url "https://storage.googleapis.com/h10n-public-releases/container-inventory/2.0.0/container-inventory_2.0.0_macos_x86_64.tar.gz"
+  version "2.0.0"
+  sha256 "f92e7eec612730d6ccfc79bb61811bcc339ecf60d050114d96c666097abc630d"
 
   def install
     bin.install "container-inventory"
