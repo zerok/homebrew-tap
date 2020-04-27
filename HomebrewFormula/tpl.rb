@@ -1,9 +1,9 @@
 class Tpl < Formula
   desc "A simple templating solution for configuration files"
   homepage "https://github.com/zerok/tpl"
-  url "https://github.com/zerok/tpl/releases/download/v3.0.0/tpl_3.0.0_darwin_amd64.tar.gz"
-  version "3.0.0"
-  sha256 "c618608a5e4f7e8ccdb86065ec76e389600e7f5999231173a1563441ee636d44"
+  url "https://github.com/zerok/tpl/releases/download/v3.1.0/tpl_3.1.0_darwin_amd64.tar.gz"
+  version "3.1.0"
+  sha256 "0126ad47ee8ff631a093acfc2da0caa95afef1912c8765a0b5cc5d05b69fe3d2"
 
   def install
     bin.install "tpl"
